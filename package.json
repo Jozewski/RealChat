@@ -1,0 +1,15 @@
+{
+  "name": "realchat",
+  "version": "1.0.0",
+  "description": "**Real Chat** is a full-stack chat application built with Node.js, Socket.io, and React, designed to foster meaningful conversations around topics that truly matter.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
