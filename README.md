@@ -23,7 +23,7 @@ Join Real Chat today and contribute your thoughts, ask questions, and learn from
 **Development Environment Setup:**
 
 
-1. Clone the repository: `git clone [http://104.131.171.220/jliszewski/real-chat.git]`
+1. Clone the repository: `git clone [https://github.com/Jozewski/RealChat.git]`
 2. Navigate to the client and server directories respectively: `cd client`, `cd server`
 3. Install dependencies using npm or yarn:  `npm install` or `yarn install`.
 
